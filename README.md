@@ -1,2 +1,2 @@
 # Gift-App
-Simple gift notepad application 
+Simple gift notepad application to write down gifts you would want to buy for the holidays to your family.
